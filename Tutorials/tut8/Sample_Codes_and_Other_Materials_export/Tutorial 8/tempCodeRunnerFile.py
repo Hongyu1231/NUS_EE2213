@@ -1,0 +1,1 @@
+print("KB entails (not B)?", contradiction_check(KB, Not(B)))
