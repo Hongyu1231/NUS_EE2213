@@ -5,13 +5,6 @@ Electrical and Computer Engineering • College of Design and Engineering • 4 
 Semester 1
 
 This course provides a practical introduction to modern artificial intelligence (AI). Students will explore the fundamental concepts, practical techniques, and useful applications of AI. Topics covered include search algorithms, machine learning, optimisation, knowledge representation with applications to various domains. The course emphasises hands-on experience through programming assignments and projects, allowing students to apply their knowledge to real-world problems. The course will also cover the issues, limitations, and ethical concerns surrounding AI and its relation to society.
-
-Prerequisite
-If undertaking an Undergraduate DegreeTHENmust have completed 1 of CS1010/CS1010A/CS1010E/CS1010J/CS1010S/CS1010X/CS1101S at a grade of at least D
-Preclusion
-If undertaking an Undergraduate DegreeTHENmust not have completed CS2109S at a grade of at least D
-Additional Information
- Included in Semester 1's Course Planning Exercise
  
 The Tutorial Questions and solutions of NUS EE2213, with the sample code of usage of AI related Python library.
 The content is about AI and ML, including basic implementaion of MLP
